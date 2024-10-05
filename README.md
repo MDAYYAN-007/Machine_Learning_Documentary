@@ -1,6 +1,6 @@
 # 🎥 Machine Learning Documentary
 
-Welcome to the **Machine Learning Documentary** project, a collaborative effort between [PrajnaEP](https://github.com/PrajnaEP) and [MDAYYAN-007](https://github.com/MDAYYAN-007). This project is dedicated to providing a comprehensive introduction to the world of **Machine Learning (ML)** using Jupyter Notebooks. We aim to explain the core concepts of ML, explore key algorithms, and present real-world use cases.
+Welcome to the **Machine Learning Documentary** project, a collaborative effort between [Prajna EP](https://github.com/PrajnaEP) and [Mohammed Dayyan](https://github.com/MDAYYAN-007). This project is dedicated to providing a comprehensive introduction to the world of **Machine Learning (ML)** using Jupyter Notebooks. We aim to explain the core concepts of ML, explore key algorithms, and present real-world use cases.
 
 ## 📚 Project Overview
 
@@ -8,8 +8,7 @@ Our documentary will take you on a journey through Machine Learning, including:
 
 ### 🔹 Introduction to Machine Learning
 - What is Machine Learning?
-- Importance of ML?
-- Key applications
+- Importance of ML
 
 ### 🔹 Types of Machine Learning
 We will cover the two major types of Machine Learning:
